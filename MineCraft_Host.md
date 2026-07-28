@@ -12,9 +12,11 @@
 
 
 ## Lore
-❤️ = Start at Join
-🩷 = 24/7 Online
-💚 = Panel Start
+| Emoji | Desc |
+|:------|:-----|
+|❤️|Start at Join|
+|🩷|24/7 Online|
+|💚|Panel Start|
 
 ### Note
 ```
